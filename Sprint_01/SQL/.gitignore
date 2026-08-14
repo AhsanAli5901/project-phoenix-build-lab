@@ -1,0 +1,11 @@
+# DBeaver
+.metadata/
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
